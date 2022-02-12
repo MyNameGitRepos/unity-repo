@@ -1,0 +1,2 @@
+O diretório principal foi criado depois que o projeto já estava pronto,
+quando baixei os arquivos eles estavam soltos sem diretório, então pode dar problema com as rotas.
